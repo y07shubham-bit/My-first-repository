@@ -204,8 +204,6 @@ print(describe_number(5))
 print(describe_number(74))
 print(describe_number(-69))
 
-# 31st december
-# Grind day 7
 
 # Shub's code 
 
